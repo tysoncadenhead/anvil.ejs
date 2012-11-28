@@ -1,0 +1,28 @@
+{
+  "author": {
+    "name": "Tyson Cadenhead",
+    "email": "tcadenhead@appendto.com",
+    "url": "http://appendto.com"
+  },
+  "name": "anvil.ejs",
+  "description": "EJS plugin for anvil.js",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tysoncadenhead/anvil.ejs.git"
+  },
+  "engines": {
+    "node": "~0.8.3"
+  },
+  "main": "./lib/plugin.js",
+  "dependencies": {
+    "ejs": ">=0.8.3"
+  },
+  "devDependencies": {
+    "anvil.js": ">=0.8.4"
+  },
+  "optionalDependencies": {},
+  "readme": "## Anvil EJS Plugin\n\nThis plugin requires anvil.js version 0.8.* or greater.\n\n## Installation\n\n\tanvil install anvil.ejs",
+  "_id": "anvil.ejs@0.0.1",
+  "_from": "anvil.ejs"
+}
