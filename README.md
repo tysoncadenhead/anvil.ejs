@@ -73,3 +73,6 @@ By default, anvil.ejs works for .html, .ejs files.  You can also pass in an arra
 	}
 }
 ```
+
+## Support
+This plugin was created by Tyson Cadenhead. Please feel free to ask me a question or submit a pull request.
